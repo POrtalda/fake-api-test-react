@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "nome": "Il Segreto della Valle Nascosta",
+  "author": {
+    "first_name": "Luca",
+    "last_name": "Ferrari"
+  },
+  "page_number": 328,
+  "images": {
+    "img_thumb": "https://example.com/images/valle_thumb.jpg",
+    "img_medium": "https://example.com/images/valle_medium.jpg",
+    "img_large": "https://example.com/images/valle_large.jpg"
+  },
+  "generes": ["Avventura", "Mistero"]
+}
